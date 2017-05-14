@@ -1,0 +1,24 @@
+Council Customer Queue system 
+Version : 0.1
+Author  : REBEN FARAJ 
+Email   : Reben_f@hotmail.co.uk
+Website : www.webdesign.me.uk
+Date    : 14-05-2017 
+=======================How to run This project ======================================
+> Install PHP 5.6 Or Later 
+> install XAMPP  : https://www.apachefriends.org/index.html
+> Create a database Named 'queue_sys_' or import  queueApp/SQL/queue_sys_.sql Database
+> create a table 'queue_tb' or import queueApp/SQL/queue_tb.sql Table
+> Setup Database connection , please note that I am using localhost as server , root as username, password not required . 
+> Please see queueApp/config/db_connector.php in Config folder and change the database credentials. 
+> Finally visit http://localhost/queueApp/index.php
+=========================================================================================
+
+
+
+
+Useful Links & References 
+http://php.net/manual/en/book.pdo.php
+http://jsfiddle.net/R7XTq/2/
+http://bootflat.github.io/documentation.html
+
