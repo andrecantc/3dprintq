@@ -1,12 +1,5 @@
-Council Customer Queue system 
-Version : 0.1
-Author  : REBEN FARAJ 
-Email   : Reben_f@hotmail.co.uk
-Website : www.webdesign.me.uk
-Date    : 14-05-2017 
-============================================================================================
-#View A Live Demo on 
-> http://webdesign.me.uk/queueApp/index.php
+André3000, Stas and Oskar
+
 =======================How to run This project =============================================
 > Install PHP 5.6 Or Later 
 > install XAMPP  : https://www.apachefriends.org/index.html
@@ -19,9 +12,4 @@ Date    : 14-05-2017
 
 
 
-
-Useful Links & References 
-http://php.net/manual/en/book.pdo.php
-http://jsfiddle.net/R7XTq/2/
-http://bootflat.github.io/documentation.html
 
