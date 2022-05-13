@@ -1,0 +1,207 @@
+31
+
+  get isEmpty() {
+
+32
+
+    return this.length === 0;
+
+33
+
+  }
+
+34
+
+}
+
+35
+
+​
+
+36
+
+class Queue {
+
+37
+
+  constructor() {
+
+38
+
+    this.elements = {};
+
+39
+
+    this.head = 0;
+
+40
+
+    this.tail = 0;
+
+41
+
+  }
+
+42
+
+  //...
+
+43
+
+}
+
+44
+
+​
+
+45
+
+class Queue {
+
+46
+
+  //...
+
+47
+
+  enqueue(element) {
+
+48
+
+    this.elements[this.tail] = element;
+
+49
+
+    this.tail++;
+
+50
+
+  }
+
+51
+
+​
+
+52
+
+  //...
+
+53
+
+}
+
+54
+
+​
+
+55
+
+class Queue {
+
+56
+
+​
+
+57
+
+  // ...
+
+58
+
+  dequeue() {
+
+59
+
+    const item = this.elements[this.head];
+
+60
+
+    delete this.elements[this.head];
+
+61
+
+    this.head++;
+
+62
+
+    return item;
+
+63
+
+  }
+
+64
+
+​
+
+65
+
+  //...
+
+66
+
+}
+
+67
+
+​
+
+68
+
+class Queue {
+
+69
+
+  //...
+
+70
+
+  peek() {
+
+71
+
+    return this.elements[this.head];
+
+72
+
+  }
+
+73
+
+  //...  
+
+74
+
+}
+
+75
+
+    
+
+76
+
+    
+
+77
+
+    
+
+78
+
+    
+
+79
+
+  </body>
+
+80
+
+  
+
+81
+
+</html>
+
+82
+
+​
